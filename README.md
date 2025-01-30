@@ -1,3 +1,5 @@
+**NOTE**: This repository is ARCHIVED. Please go to [https://github.com/hakyimlab/brainxcan-docs](https://github.com/hakyimlab/brainxcan-docs) for active maintenance!
+
 # brainxcan-docs
 
 [![DOI](https://zenodo.org/badge/629233031.svg)](https://zenodo.org/badge/latestdoi/629233031)
